@@ -1,0 +1,33 @@
+_repo: American-World-Policies_33153
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyl, Walter E. (Walter Edward)
+    alias: Weyl, Walter Edward
+    birthdate: 1873
+    deathdate: 1919
+    gutenberg_agent_id: '36235'
+    url: http://www.gutenberg.org/2009/agents/36235
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Weyl
+description: ''
+gutenberg_issued: '2010-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33153'
+  lccn: '17006653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JX'
+- !lcsh 'United States -- Economic policy -- To 1933'
+- !lcsh 'World politics'
+- !lcsh 'Imperialism'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'United States -- Foreign relations -- 1913-1921'
+title: American World Policies
+url: http://www.gutenberg.org/ebooks/33153
